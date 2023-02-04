@@ -1,0 +1,15 @@
+/home/whoami/Documents/ASP.NET/factorial_func/factorial_func/obj/Debug/net7.0/factorial_func.csproj.AssemblyReference.cache
+/home/whoami/Documents/ASP.NET/factorial_func/factorial_func/obj/Debug/net7.0/factorial_func.GeneratedMSBuildEditorConfig.editorconfig
+/home/whoami/Documents/ASP.NET/factorial_func/factorial_func/obj/Debug/net7.0/factorial_func.AssemblyInfoInputs.cache
+/home/whoami/Documents/ASP.NET/factorial_func/factorial_func/obj/Debug/net7.0/factorial_func.AssemblyInfo.cs
+/home/whoami/Documents/ASP.NET/factorial_func/factorial_func/obj/Debug/net7.0/factorial_func.csproj.CoreCompileInputs.cache
+/home/whoami/Documents/ASP.NET/factorial_func/factorial_func/bin/Debug/net7.0/factorial_func
+/home/whoami/Documents/ASP.NET/factorial_func/factorial_func/bin/Debug/net7.0/factorial_func.deps.json
+/home/whoami/Documents/ASP.NET/factorial_func/factorial_func/bin/Debug/net7.0/factorial_func.runtimeconfig.json
+/home/whoami/Documents/ASP.NET/factorial_func/factorial_func/bin/Debug/net7.0/factorial_func.dll
+/home/whoami/Documents/ASP.NET/factorial_func/factorial_func/bin/Debug/net7.0/factorial_func.pdb
+/home/whoami/Documents/ASP.NET/factorial_func/factorial_func/obj/Debug/net7.0/factorial_func.dll
+/home/whoami/Documents/ASP.NET/factorial_func/factorial_func/obj/Debug/net7.0/refint/factorial_func.dll
+/home/whoami/Documents/ASP.NET/factorial_func/factorial_func/obj/Debug/net7.0/factorial_func.pdb
+/home/whoami/Documents/ASP.NET/factorial_func/factorial_func/obj/Debug/net7.0/factorial_func.genruntimeconfig.cache
+/home/whoami/Documents/ASP.NET/factorial_func/factorial_func/obj/Debug/net7.0/ref/factorial_func.dll
